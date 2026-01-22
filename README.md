@@ -45,6 +45,25 @@ Ticketing System
 - Used professional documentation standards
 - Tracked resolution times
 
+Environment Setup
+AWS EC2 Instance (screenshots/Instance Running in EC2 dashboard)
+Server Desktop (screenshots/Server Desktop.png)
+
+Active Directory Configuration
+AD Users and Computers (screenshots/AD Users and Computers showing domain.png)
+User Creation (screenshots/Creating a new user.png)
+Group (screenshots/Group with VPN Users.png)
+
+Administrative Tasks
+Password Reset (screenshots/Password Reset for Amy.png)
+Account Lockout (screenshots/Account Lockout.png)
+Unlocked Account (screenshots/Unlocked Trickman Account.png)
+Group Policy (screenshots/Group Policy Management Console.png)
+
+Ticketing System
+Zendesk Dashboard (screenshots/ZenDesk Dashboard.png)
+Resolved Tickets (screenshots/Zendesk Dashboard Showing all 5 resolved tickets.png)
+
 Key Learnings
 - Hands-on experience with enterprise directory services
 - Understanding of user lifecycle management

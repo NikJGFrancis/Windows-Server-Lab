@@ -12,7 +12,7 @@ Technologies Used
 
 Lab Architecture
 - Domain: techcorp.local
-- Domain Controller: CompanyDC01
+- Domain Controller: MobileGlass
 - Users: 10+ across 4 departments
 - Groups: 6 security groups
 - OUs: Hierarchical structure (Corporate → Departments)
@@ -28,12 +28,12 @@ Active Directory Administration
 - Account lockout policies
 
 User Management Tasks Performed
-✅ Created new user accounts  
-✅ Disabled/deleted terminated users  
-✅ Reset passwords  
-✅ Modified group memberships  
-✅ Locked and unlocked accounts  
-✅ Created service accounts  
+- Created new user accounts  
+- Disabled/deleted terminated users  
+- Reset passwords  
+- Modified group memberships  
+- Locked and unlocked accounts  
+- Created service accounts  
 
 Troubleshooting & Problem Resolution
 - Intentionally broke AD configurations

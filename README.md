@@ -11,7 +11,7 @@ Technologies Used
 - Zendesk (ticketing system)
 
 Lab Architecture
-- Domain: techcorp.local
+- Domain: mobileglass.local
 - Domain Controller: MobileGlass
 - Users: 10+ across 4 departments
 - Groups: 6 security groups

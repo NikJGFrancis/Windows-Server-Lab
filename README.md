@@ -46,23 +46,23 @@ Ticketing System
 - Tracked resolution times
 
 Environment Setup
-AWS EC2 Instance (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Instance%20Running%20in%20EC2%20dashboard%20)
-Server Desktop (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Server%20Desktop.png)
+- AWS EC2 Instance (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Instance%20Running%20in%20EC2%20dashboard%20)
+- Server Desktop (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Server%20Desktop.png)
 
 Active Directory Configuration
-AD Users and Computers (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/AD%20Users%20and%20Computers%20showing%20domain.png)
-User Creation (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Creating%20a%20new%20user.png)
-Group (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20with%20VPN%20Users.png)
+- AD Users and Computers (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/AD%20Users%20and%20Computers%20showing%20domain.png)
+- User Creation (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Creating%20a%20new%20user.png)
+- Group (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20with%20VPN%20Users.png)
 
 Administrative Tasks
-Password Reset (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Password%20Reset%20for%20Amy.png)
-Account Lockout (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Account%20Lockout.png)
-Unlocked Account (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Unlocked%20Trickman%20Account.png)
-Group Policy (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20Policy%20Management%20Console.png)
+- Password Reset (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Password%20Reset%20for%20Amy.png)
+- Account Lockout (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Account%20Lockout.png)
+- Unlocked Account (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Unlocked%20Trickman%20Account.png)
+- Group Policy (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20Policy%20Management%20Console.png)
 
 Ticketing System
-Zendesk Dashboard [(screenshots/ZenDesk Dashboard.png)]
-Resolved Tickets (screenshots/Zendesk Dashboard Showing all 5 resolved tickets.png)
+- Zendesk Dashboard (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/6a708379cad06eb28ecf229873a737accce4c949/screenshots/ZenDesk%20Dashboard.png)
+- Resolved Tickets (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Zendesk%20Dashboard%20Showing%20all%205%20resolved%20tickets.png)
 
 Key Learnings
 - Hands-on experience with enterprise directory services

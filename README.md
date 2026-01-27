@@ -47,18 +47,18 @@ Ticketing System
 
 Environment Setup
 AWS EC2 Instance (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Instance%20Running%20in%20EC2%20dashboard%20)
-Server Desktop (screenshots/Server Desktop.png)
+Server Desktop (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Server%20Desktop.png)
 
 Active Directory Configuration
-AD Users and Computers (screenshots/AD Users and Computers showing domain.png)
-User Creation (screenshots/Creating a new user.png)
-Group (screenshots/Group with VPN Users.png)
+AD Users and Computers (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/AD%20Users%20and%20Computers%20showing%20domain.png)
+User Creation (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Creating%20a%20new%20user.png)
+Group (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20with%20VPN%20Users.png)
 
 Administrative Tasks
-Password Reset (screenshots/Password Reset for Amy.png)
-Account Lockout (screenshots/Account Lockout.png)
-Unlocked Account (screenshots/Unlocked Trickman Account.png)
-Group Policy (screenshots/Group Policy Management Console.png)
+Password Reset (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Password%20Reset%20for%20Amy.png)
+Account Lockout (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Account%20Lockout.png)
+Unlocked Account (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Unlocked%20Trickman%20Account.png)
+Group Policy (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20Policy%20Management%20Console.png)
 
 Ticketing System
 Zendesk Dashboard (screenshots/ZenDesk Dashboard.png)

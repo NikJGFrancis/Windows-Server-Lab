@@ -46,7 +46,7 @@ Ticketing System
 - Tracked resolution times
 
 Environment Setup
-AWS EC2 Instance (screenshots/Instance Running in EC2 dashboard)
+AWS EC2 Instance (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Instance%20Running%20in%20EC2%20dashboard%20)
 Server Desktop (screenshots/Server Desktop.png)
 
 Active Directory Configuration

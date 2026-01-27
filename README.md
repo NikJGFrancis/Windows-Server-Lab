@@ -61,7 +61,7 @@ Unlocked Account (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/s
 Group Policy (https://github.com/NikJGFrancis/Windows-Server-Lab/blob/main/screenshots/Group%20Policy%20Management%20Console.png)
 
 Ticketing System
-Zendesk Dashboard (screenshots/ZenDesk Dashboard.png)
+Zendesk Dashboard [(screenshots/ZenDesk Dashboard.png)]
 Resolved Tickets (screenshots/Zendesk Dashboard Showing all 5 resolved tickets.png)
 
 Key Learnings

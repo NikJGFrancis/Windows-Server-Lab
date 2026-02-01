@@ -1,5 +1,4 @@
-# Windows Server Active Directory Lab
-
+Windows Server Active Directory Lab
 Overview
 Built a complete Windows Server environment on AWS to practice enterprise IT administration tasks.
 
